@@ -1,6 +1,6 @@
 # Clone do Netflix - Exercício do Curso +praTI
 
-Este projeto é um clone do Netflix desenvolvido como parte do curso Desenvolvedor Junior FullStack do +praTI. O objetivo deste projeto é criar uma interface de usuário simplificada que emula o design e a funcionalidade do Netflix, utilizando tecnologias modernas de desenvolvimento web.
+Este projeto é um clone da Netflix desenvolvido como parte do curso Desenvolvedor Junior FullStack do +praTI. O objetivo deste projeto é criar uma interface de usuário simplificada que emula o design e a funcionalidade do Netflix, utilizando tecnologias modernas de desenvolvimento web.
 
 ## Tecnologias Utilizadas
 
